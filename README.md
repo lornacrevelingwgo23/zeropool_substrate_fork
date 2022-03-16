@@ -18,7 +18,7 @@ This is a fork of [zeropool](https://github.com/zeropoolnetwork/zeropool-substra
 To build and run the dev node, execute:
 
 ```bash
-cd zeropool-substrate-devnet
+cd zk-substrate-devnet
 make init
 make run
 ```
