@@ -4,11 +4,7 @@ This is a fork of [zeropool](https://github.com/zeropoolnetwork/zeropool-substra
 
 ### Requirements
 
-1. [Install Rust](https://www.rust-lang.org/tools/install)
-
-   `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
-   
-2. Install `make`
+1. Install `make`
 
    * Ubuntu: `sudo apt-get install build-essential`
    * Mac OS: `xcode-select --install`
